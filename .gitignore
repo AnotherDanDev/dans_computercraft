@@ -1,0 +1,20 @@
+# --- Secrets & credentials (never commit) ---
+**/sheetsSecrets.json
+**/webhookURL.txt
+**/token.json
+
+# --- Runtime state written by the programs ---
+**/storeInfo.json
+**/dimensionInfo.json
+**/itemCosts.json
+
+# --- Third-party libraries (installed on the computer, not vendored) ---
+**/basalt.lua
+
+# --- Personal scratch / old code not meant for the repo ---
+_archive/
+
+# --- Editor / OS ---
+*.code-workspace
+.DS_Store
+Thumbs.db
