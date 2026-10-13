@@ -97,7 +97,7 @@ A super fun project which combined a couple of different magic mods to great eff
 
 ![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)
 **Watch Video Below**
-[![thumbail|500](unincluded-projects/media/mob_teleporter_thumbail.jpg)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
+[![thumbail|500](unincluded-projects/media/mob_teleporter_thumbail.png)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
 ### Island ESP
 *2016 · Custom PVP Modpack*
 
