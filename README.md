@@ -93,11 +93,13 @@ Video: https://youtu.be/your-video-id
 ### Mob Teleporter
 *2020 · Custom Modpack*
 
-A super fun project which combined a couple of different magic mods to great effect. 
+A super fun project which combined a couple of different magic mods and tech mods to great effect. I think this was a mash between the Create mod for the crane mechanism, Apotheosis for the spawners, Computercraft for the logic obviously, and Ars Nouveau for the portals. The idea is we use a grid of portals and move the stack of spawners above them. We can swap out the spawners, and change the portal locations super quickly if we want to do something else. Very funny method of annoying your friends on the server, as the mobs literally just appear out of thin air.
 
-![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)
 **Watch Video Below**
 [![thumbnail|500](unincluded-projects/media/mob_teleporter_thumbnail.png)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
+*pictures of me annoying my friends*
+![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)
+
 ### Island ESP
 *2016 · Custom PVP Modpack*
 
