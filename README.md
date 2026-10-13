@@ -95,7 +95,7 @@ Video: https://youtu.be/your-video-id
 
 A super fun project which combined a couple of different magic mods to great effect. 
 
-![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)
+![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)![Screenshot|500](unincluded-projects/media/mob_teleporter.mp4)
 ### Island ESP
 *2016 · Custom PVP Modpack*
 
