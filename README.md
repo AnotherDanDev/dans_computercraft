@@ -92,6 +92,22 @@ Short description of what it did and how it worked.
 Video: https://youtu.be/your-video-id
 (or drag an .mp4 into the README on GitHub's web editor to embed it inline)
 -->
+
+### Aeronautics Autopilot
+*2026 · Custom Modpack*
+
+With Create Aeronautics releasing this year, I had the idea of developing an autopilot system for airships. While something similar could probably be achieved using redstone, I imagine it would require significantly more effort and complexity.
+
+The autopilot includes several useful features, such as `goto <player>` and `comehere`, along with chat-based commands like `turn` and `speed`, allowing players to control their ships remotely.
+
+One of the more interesting features is the ability to create custom **navigation logic**, or "navlogic," which determines how the ship approaches its destination. For example, `keepaltitude` maintains the ship's current altitude while navigating toward its target coordinates, while `safeflight` raises the ship to its maximum achievable altitude before traveling, allowing it to safely pass over tall terrain and obstacles.
+
+Since different airships can reach different altitudes depending on their balloon configurations and burner settings, I also implemented a **calibration system**. During calibration, the system cycles through each burner intensity, holding it for a couple of minutes to allow the ship to stabilize. Once the ship levels out, its altitude is recorded and associated with that burner setting. The autopilot then uses these measurements to determine the appropriate burner intensity during navigation. This makes the system adaptable to a variety of airship designs without requiring manual configuration for each one.
+
+The particular airship shown in the video also features a flywheel mounted in its center, allowing it to rotate in place even when it isn't moving forward. This gives the autopilot greater control over the ship's orientation, especially when maneuvering at low speeds or while stationary.
+##### Watch the demo video below
+[![thumbnail|500](unincluded-projects/media/autopilot.png)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
+
 ### Mob Teleporter
 *2020 · Custom Modpack*
 
