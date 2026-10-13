@@ -18,8 +18,8 @@ More projects will land here over time as I dig them up.
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [CC: Tweaked](https://tweaked.cc/)                                                        | Everything (the computers themselves)                                     |
 | [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) | Chat Box, Player Detector, RS Bridge, Block Reader, Redstone Integrator   |
-| Refined Storage                                                                           | Shop item buyback, Botania wool engine                                    |
-| Botania                                                                                   | Botania wool engine                                                       |
+| [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)           | Shop item buyback, Botania wool engine                                    |
+| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)                           | Botania wool engine                                                       |
 | [Plethora](https://plethora.madefor.cc/)                                                  | A couple of old projects, unfortunately it hasn't been updated in a while |
 
 
@@ -55,6 +55,8 @@ A player-run shop that buys items from players at prices that react to supply, w
 ### Dimension Tracker (`dimension-tracker/`)
 
 **`dimensionTracker.lua`** is an intruder alarm for a private dimension; mine guarded my Tardis. When anyone not on the allowlist enters or leaves, everyone on the notify list gets an in-game toast notification and a colored Discord message goes out. It's managed entirely through hidden chat commands (`$setDim`, `$addDim <player>`, `$addNotify <player>`, and so on), so there's no need to walk back to the computer.
+
+![Screenshot|500](unincluded-projects/media/Discord.png)
 
 ### Botania Wool Engine (`botania/`)
 
@@ -93,12 +95,27 @@ Video: https://youtu.be/your-video-id
 ### Mob Teleporter
 *2020 · Custom Modpack*
 
-A super fun project which combined a couple of different magic mods and tech mods to great effect. I think this was a mash between the Create mod for the crane mechanism, Apotheosis for the spawners, Computercraft for the logic obviously, and Ars Nouveau for the portals. The idea is we use a grid of portals and move the stack of spawners above them. We can swap out the spawners, and change the portal locations super quickly if we want to do something else. Very funny method of annoying your friends on the server, as the mobs literally just appear out of thin air.
+A super fun project which combined a couple of different magic mods and tech mods to great effect. I think this was a mash between the Create mod for the crane mechanism, Apotheosis for the spawners, Computercraft for the logic obviously, the Basalt library for the pad GUI, and Ars Nouveau for the portals. The idea is we use a grid of portals and move the stack of spawners above them. We can swap out the spawners, and change the portal locations super quickly if we want to do something else. Very funny method of annoying your friends on the server, as the mobs literally just appear out of thin air.
 
 **Watch Video Below**
 [![thumbnail|500](unincluded-projects/media/mob_teleporter_thumbnail.png)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
 *pictures of me annoying my friends*
 ![Screenshot|500](unincluded-projects/media/mob_teleporter_1.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_2.png)![Screenshot|500](unincluded-projects/media/mob_teleporter_3.png)
+
+### Project Name
+*2019 · Stoneblock 3*
+
+This one is a bit different, I used Computercraft fairly regularly throughout the challenge modpack called Stoneblock 3, but what I was really proud of was automating this spreadsheet. You see the goal of Stoneblock 3 is to progress through the quests/challenges given by the modpack creators, and getting to the end of the modpack requires automating a bunch of different items. I was playing with some friends, and we divided up the work we needed to do. To better track our progress, I created a spreadsheet and automated it with regular API calls to Google Sheets, providing a more organized and user-friendly interface for viewing updates.
+
+![Screenshot|700](unincluded-projects/media/stoneblock_spreadsheet.png)
+
+### Petal Dropper
+*2019 · Stoneblock 3*
+
+This is one of the more useful and easy to setup projects I've done. If you've ever played with the Botania mod, you know how slow the pedestal crafting system can be. So I made this GUI to help with it, whenever you click a button on the screen it will drop the corresponding petal into the pedestal by pulling it from a nearby storage system and depositing it into an "Open Crate" (also from botania). Speeds up the crafting process considerably when you can just click a couple of buttons instead of having to find each color petal you need. The UI is scalable so you can go from a 1x1 monitor to however large you want. This could be used to accommodate for more items in the list should you need them.
+
+![Screenshot|400](unincluded-projects/media/petal_dropper.png)![Screenshot|500](unincluded-projects/media/petal_dropper_2.png)
+
 
 ### Island ESP
 *2016 · Custom PVP Modpack*
