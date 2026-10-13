@@ -105,8 +105,8 @@ One of the more interesting features is the ability to create custom **navigatio
 Since different airships can reach different altitudes depending on their balloon configurations and burner settings, I also implemented a **calibration system**. During calibration, the system cycles through each burner intensity, holding it for a couple of minutes to allow the ship to stabilize. Once the ship levels out, its altitude is recorded and associated with that burner setting. The autopilot then uses these measurements to determine the appropriate burner intensity during navigation. This makes the system adaptable to a variety of airship designs without requiring manual configuration for each one.
 
 The particular airship shown in the video also features a flywheel mounted in its center, allowing it to rotate in place even when it isn't moving forward. This gives the autopilot greater control over the ship's orientation, especially when maneuvering at low speeds or while stationary.
-##### Watch the demo video below
-[![thumbnail|500](unincluded-projects/media/Autopilot.png)](https://www.youtube.com/watch?v=TLCB_1xHCiI)
+#### Watch the demo video below
+[![thumbnail|500](unincluded-projects/media/Autopilot.png)](https://www.youtube.com/watch?v=V7FChkeBQcA)
 
 ### Mob Teleporter
 *2020 · Custom Modpack*
