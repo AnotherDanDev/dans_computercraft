@@ -106,7 +106,7 @@ Since different airships can reach different altitudes depending on their balloo
 
 The particular airship shown in the video also features a flywheel mounted in its center, allowing it to rotate in place even when it isn't moving forward. This gives the autopilot greater control over the ship's orientation, especially when maneuvering at low speeds or while stationary.
 #### Watch the demo video below
-[![thumbnail|500](unincluded-projects/media/Autopilot.png)](https://www.youtube.com/watch?v=V7FChkeBQcA)
+[![thumbnail|500](unincluded-projects/media/Autopilot.png)](https://www.youtube.com/watch?v=JACDBnWcUKs)
 
 ### Mob Teleporter
 *2020 · Custom Modpack*
